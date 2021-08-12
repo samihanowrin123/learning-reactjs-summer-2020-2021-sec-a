@@ -1,20 +1,22 @@
-.std{
+.std {
     border: 1px solid black;
     width: 200px;
     height: 150px;
-    background-color: gray;
-    color: aqua;
+    background-color: rgb(128, 128, 128);
+    color: rgb(83, 212, 152);
     padding: auto;
     margin: 5px;
 }
-p{
+
+p {
     margin-left: 10px;
 }
-h3{
+
+h3 {
     margin-left: 10px;
 }
-button{
-    
+
+button {
     margin-bottom: 30%;
     margin-left: 10px;
 }

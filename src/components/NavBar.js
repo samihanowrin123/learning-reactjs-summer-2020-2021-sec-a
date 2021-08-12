@@ -3,6 +3,8 @@ const NavBar=()=>{
     return (
         <div>
             <Link to= {"/"}> Home |</Link>
+            
+            <Link to= {"/product"}> Product |</Link>
             <Link to= {"/registration"}> Registration |</Link>
             <Link to= {"/login"}> Login </Link>
             

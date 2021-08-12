@@ -24,14 +24,14 @@ function App() {
       </div>
         <Switch>
             <Route exact path='/'>
-            <h1>Welcome to the Online Shop Management System!!!</h1>
+            <h1>Welcome!!</h1>
             </Route>
             <Route path='/registration' ><Registration /></Route>
             <Route path='/login' ><Login /></Route>
             
 
             <Route path='*'>
-                404 not found
+                Error
             </Route>
 
         </Switch>
